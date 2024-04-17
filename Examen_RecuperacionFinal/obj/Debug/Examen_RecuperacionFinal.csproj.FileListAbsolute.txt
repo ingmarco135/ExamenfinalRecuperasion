@@ -1,0 +1,12 @@
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\bin\Debug\Examen_RecuperacionFinal.exe.config
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\bin\Debug\Examen_RecuperacionFinal.exe
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\bin\Debug\Examen_RecuperacionFinal.pdb
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.csproj.AssemblyReference.cache
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.Form1.resources
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.Properties.Resources.resources
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.csproj.GenerateResource.cache
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.csproj.CoreCompileInputs.cache
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.exe
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.pdb
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.csproj.SuggestedBindingRedirects.cache
+D:\UTEA\Sofware II\Examen_RecuperacionFinal\Examen_RecuperacionFinal\obj\Debug\Examen_RecuperacionFinal.exe.config
